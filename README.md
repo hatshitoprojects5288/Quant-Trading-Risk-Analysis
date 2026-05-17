@@ -1,5 +1,4 @@
 # Quantitative Trading & Risk Analysis
-**Maintainer:** JOSHUA SAMAL | Digital Infrastructure  
 **Domain:** Quantitative Finance, Data Engineering & Risk Modeling  
 **Tech Stack:** Python 3.x, REST APIs, Monte Carlo Simulation  
 
